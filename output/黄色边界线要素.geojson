@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "黄色边界线要素",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "line_id": 1, "name": "边界线1", "start_x": 463, "start_y": 176, "end_x": 632, "end_y": 377, "length": 262.60616900598507 }, "geometry": { "type": "LineString", "coordinates": [ [ 463.0, 176.0 ], [ 632.0, 377.0 ] ] } },
+{ "type": "Feature", "properties": { "line_id": 2, "name": "边界线2", "start_x": 478, "start_y": 428, "end_x": 575, "end_y": 770, "length": 355.48980294798895 }, "geometry": { "type": "LineString", "coordinates": [ [ 478.0, 428.0 ], [ 575.0, 770.0 ] ] } }
+]
+}
